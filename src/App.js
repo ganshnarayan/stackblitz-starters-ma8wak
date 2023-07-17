@@ -4,7 +4,7 @@ import './style.css';
 export default function App() {
   return (
     <div>
-      <h1>Hello Stack</h1>
+      <h1>Hello Ganesh</h1>
       <p>Start editing to see some magic happen :)</p>
     </div>
   );
